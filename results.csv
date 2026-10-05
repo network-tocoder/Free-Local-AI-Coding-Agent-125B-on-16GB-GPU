@@ -1,0 +1,6 @@
+level,task,time,tests,write_tok_s,prompt_read,context_used,cost_usd,notes
+1,Build task manager (Express API + UI + tests),3m38s,5/5,48-52,12.9K tokens in ~1s,20%,0,Recovered from PowerShell error on its own
+2,Fix inline-edit bug + add due dates,4m58s,6/6,40-43,20K tokens in ~1s,53%,0,Found & killed stale server on port 3000
+3,Export/import + Dockerfile + README,3m48s,7/7,37-44,44K tokens in 1-3s,68%,0,Honestly reported it could not verify Docker build
+Boss run 1,Racing game (one HTML file),6m35s,-,43,-,42%,0,Hit 16384 output limit while thinking - no code
+Boss run 2,Racing game + thinking budget 8000,4m51s,syntax OK,43,-,35%,0,11054 tokens written in 266s; game opened in browser
