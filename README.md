@@ -1,6 +1,6 @@
 # Free Local AI Coding Agent: 125B on a 16GB GPU (Strata + opencode)
 
-![GPU](https://img.shields.io/badge/Tested%20on-RTX%203090%2024GB-76b900?style=for-the-badge&logo=nvidia&logoColor=white)
+![GPU](https://img.shields.io/badge/Tested%20on-RTX%204060Ti%16GB-76b900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Model](https://img.shields.io/badge/Model-Qwen3.8--Flash--Next%20125B%20MoE-06b6d4?style=for-the-badge)
 ![Engine](https://img.shields.io/badge/Engine-Strata-f59e0b?style=for-the-badge)
 ![Cost](https://img.shields.io/badge/Cost-Free-brightgreen?style=for-the-badge)
