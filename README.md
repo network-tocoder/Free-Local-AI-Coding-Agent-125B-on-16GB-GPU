@@ -1,6 +1,7 @@
 # Free Local AI Coding Agent: 125B on a 16GB GPU (Strata + opencode)
 
 ▶️ Video: https://www.youtube.com/watch?v=QBPbvMaHkJc
+
 📺 Part 1 (Strata on RTX 3090): https://github.com/network-tocoder/Run-a-125B-AI-Model-on-One-GPU-Strata-Qwen3.8-Flash-Next
 
 A 125B mixture-of-experts model (Qwen3.8-Flash-Next, IQ3_S) running as a full coding agent on one **RTX 4060 Ti 16GB**, tested on 4 levels of real coding tasks. **$0 spent.**
