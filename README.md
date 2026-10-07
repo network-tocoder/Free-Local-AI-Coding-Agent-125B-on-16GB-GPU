@@ -1,5 +1,12 @@
 # Free Local AI Coding Agent: 125B on a 16GB GPU (Strata + opencode)
 
+![GPU](https://img.shields.io/badge/Tested%20on-RTX%203090%2024GB-76b900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Model](https://img.shields.io/badge/Model-Qwen3.8--Flash--Next%20125B%20MoE-06b6d4?style=for-the-badge)
+![Engine](https://img.shields.io/badge/Engine-Strata-f59e0b?style=for-the-badge)
+![Cost](https://img.shields.io/badge/Cost-Free-brightgreen?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-Not%20Required-red?style=for-the-badge)
+![API](https://img.shields.io/badge/API-OpenAI%20Compatible-black?style=for-the-badge)
+
 ## 📺 The 125B-on-One-GPU Series
 
 Run a **125B AI model locally** on a single consumer GPU with the free **Strata** engine. Every part is a real, hands-on test with configs and results.
